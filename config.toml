@@ -1,0 +1,37 @@
+baseURL = "http://mildlyentertaining.games/"
+languageCode = "en-us"
+title = "Mildly Entertaining Games"
+theme = "dream"
+
+enableRobotsTXT = true
+
+# https://gohugo.io/news/0.60.0-relnotes/
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "dracula"
+
+[params]
+  # background = "black"
+  backgroundImage = ""
+  linkColor = "seagreen"
+
+  author = "Mildy Entertaining Games"
+  description = ""
+  avatar = ""
+
+  rss = true
+ 
+  siteStartYear = 2020
+
+  favicon = "/favicon.ico"
+
+  # options
+  showSummaryCoverInPost = true
+
+  # dark mode
+  darkLinkColor = "darkseagreen"
+  darkNav = true
+  dark404 = true
