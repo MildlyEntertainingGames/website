@@ -2,6 +2,7 @@ baseURL = "http://mildlyentertaining.games/"
 languageCode = "en-us"
 title = "Mildly Entertaining Games"
 theme = "dream"
+publishDir = "docs"
 
 enableRobotsTXT = true
 
