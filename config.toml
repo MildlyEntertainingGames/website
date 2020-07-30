@@ -1,4 +1,4 @@
-baseURL = "http://mildlyentertaining.games/"
+baseURL = "https://mildlyentertaining.games/"
 languageCode = "en-us"
 title = "Mildly Entertaining Games"
 theme = "dream"
