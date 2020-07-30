@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mildly Entertaining Games</title>
-    <link>http://mildlyentertaining.games/posts/</link>
+    <link>https://mildlyentertaining.games/posts/</link>
     <description>Recent content in Posts on Mildly Entertaining Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Jul 2020 15:26:09 +0000</lastBuildDate>
     
-	<atom:link href="http://mildlyentertaining.games/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mildlyentertaining.games/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Back</title>
-      <link>http://mildlyentertaining.games/posts/back/</link>
+      <link>https://mildlyentertaining.games/posts/back/</link>
       <pubDate>Thu, 16 Jul 2020 15:26:09 +0000</pubDate>
       
-      <guid>http://mildlyentertaining.games/posts/back/</guid>
+      <guid>https://mildlyentertaining.games/posts/back/</guid>
       <description>&lt;p&gt;And now we are back!&lt;/p&gt;</description>
     </item>
     
