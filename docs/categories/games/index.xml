@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mildly Entertaining Games</title>
-    <link>https://mildlyentertaining.games/posts/</link>
-    <description>Recent content in Posts on Mildly Entertaining Games</description>
+    <title>games on Mildly Entertaining Games</title>
+    <link>https://mildlyentertaining.games/categories/games/</link>
+    <description>Recent content in games on Mildly Entertaining Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2020 15:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mildlyentertaining.games/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mildlyentertaining.games/categories/games/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>We are back</title>
-      <link>https://mildlyentertaining.games/posts/back/</link>
-      <pubDate>Thu, 16 Jul 2020 15:26:09 +0000</pubDate>
-      
-      <guid>https://mildlyentertaining.games/posts/back/</guid>
-      <description>&lt;p&gt;And now we are back!&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title> Affectionate Armament</title>

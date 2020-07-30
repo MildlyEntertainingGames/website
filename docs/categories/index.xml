@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Info</title>
-      <link>https://mildlyentertaining.games/categories/info/</link>
+      <title>news</title>
+      <link>https://mildlyentertaining.games/categories/news/</link>
       <pubDate>Thu, 16 Jul 2020 15:26:09 +0000</pubDate>
       
-      <guid>https://mildlyentertaining.games/categories/info/</guid>
+      <guid>https://mildlyentertaining.games/categories/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>https://mildlyentertaining.games/categories/games/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://mildlyentertaining.games/categories/games/</guid>
       <description></description>
     </item>
     
