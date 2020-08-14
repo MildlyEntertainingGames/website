@@ -6,10 +6,46 @@
     <description>Recent content on Mildly Entertaining Games</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Jul 2020 15:26:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://mildlyentertaining.games/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title> Affectionate Armament</title>
+      <link>https://mildlyentertaining.games/posts/affectionate-armament/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mildlyentertaining.games/posts/affectionate-armament/</guid>
+      <description>&lt;p&gt;Our first Ludum Dare game! A two-player action game that can be played on one screen. There is only one gun, players who know how to sweet-talk can grab it from the enemy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Here Be Fish</title>
+      <link>https://mildlyentertaining.games/posts/here-be-fish/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mildlyentertaining.games/posts/here-be-fish/</guid>
+      <description>&lt;p&gt;A simulation game about underwater people, made for Ludum Dare.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Potion Shift</title>
+      <link>https://mildlyentertaining.games/posts/potion-shift/</link>
+      <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mildlyentertaining.games/posts/potion-shift/</guid>
+      <description>&lt;p&gt;A match-three game with side effects that may involve shapeshifting a bizarre creature. Made for Ludum Dare.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Superhero</title>
+      <link>https://mildlyentertaining.games/posts/my-superhero/</link>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mildlyentertaining.games/posts/my-superhero/</guid>
+      <description>&lt;p&gt;The first attempt at creating a 3D game. It&amp;rsquo;s a tower defense game set in a bedroom, use toys to defend from nightmares.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>We are back</title>
@@ -18,42 +54,6 @@
       
       <guid>https://mildlyentertaining.games/posts/back/</guid>
       <description>&lt;p&gt;And now we are back!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title> Affectionate Armament</title>
-      <link>https://mildlyentertaining.games/posts/affectionate-armament/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mildlyentertaining.games/posts/affectionate-armament/</guid>
-      <description>//TODO (you can google it in the meantime and find it on various sites)</description>
-    </item>
-    
-    <item>
-      <title>Here Be Fish</title>
-      <link>https://mildlyentertaining.games/posts/here-be-fish/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mildlyentertaining.games/posts/here-be-fish/</guid>
-      <description>Here Be Fish //TODO (you can google it in the meantime and find it on various sites)</description>
-    </item>
-    
-    <item>
-      <title>My Superhero</title>
-      <link>https://mildlyentertaining.games/posts/my-superhero/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mildlyentertaining.games/posts/my-superhero/</guid>
-      <description>My Superhero //TODO (you can google it in the meantime and find it on various sites)</description>
-    </item>
-    
-    <item>
-      <title>Potion Shift</title>
-      <link>https://mildlyentertaining.games/posts/potion-shift/</link>
-      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://mildlyentertaining.games/posts/potion-shift/</guid>
-      <description>Potion Shift //TODO (you can google it in the meantime and find it on various sites)</description>
     </item>
     
   </channel>

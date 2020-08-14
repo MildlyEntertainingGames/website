@@ -1,12 +1,16 @@
 ---
 title: "Here Be Fish"
-date: "2019-07-30"
+date: "2020-07-30"
 author: "Mildly Entertaining Games"
-cover: "/img/no-image.png"
+cover: "/img/animated_title_herebefish.gif"
 categories:
   - games
 ---
 
-## Here Be Fish
+A simulation game about underwater people, made for Ludum Dare.
 
-//TODO (you can google it in the meantime and find it on various sites)
+<!--more-->
+
+Can be played and downloaded for free on itch.io:
+
+[![itch-download](/img/download_from_itch_badge.svg)](https://mildlyentertaininggames.itch.io/herebefish)

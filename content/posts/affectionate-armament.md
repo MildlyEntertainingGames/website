@@ -1,12 +1,19 @@
 ---
 title: " Affectionate Armament"
-date: "2019-07-30"
+date: "2020-07-30"
 author: "Mildly Entertaining Games"
-cover: "/img/no-image.png"
+cover: "/img/affectionate-armament.gif"
 categories:
   - games
 ---
 
+Our first Ludum Dare game! A two-player action game that can be played on one screen. There is only one gun, players who know how to sweet-talk can grab it from the enemy.
 
-//TODO (you can google it in the meantime and find it on various sites)
+
+<!--more-->
+
+Can be played and downloaded for free on itch.io:
+
+[![itch-download](/img/download_from_itch_badge.svg)](https://mildlyentertaininggames.itch.io/affectionate-armament)
+
 

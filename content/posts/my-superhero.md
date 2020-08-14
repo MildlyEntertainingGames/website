@@ -1,12 +1,16 @@
 ---
 title: "My Superhero"
-date: "2019-07-30"
+date: "2020-07-29"
 author: "Mildly Entertaining Games"
-cover: "/img/no-image.png"
+cover: "/img/my-superhero-screenshot.PNG"
 categories:
   - games
 ---
 
-## My Superhero
+The first attempt at creating a 3D game. It's a tower defense game set in a bedroom, use toys to defend from nightmares.
 
-//TODO (you can google it in the meantime and find it on various sites)
+<!--more-->
+
+It's not available for download anymore, but here is some video footage:
+
+{{< youtube 01rOf047tcc >}}

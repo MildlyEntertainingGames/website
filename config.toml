@@ -92,3 +92,5 @@ enableRobotsTXT = true
   darkLinkColor = "darkseagreen"
   darkNav = true
   dark404 = true
+
+  customCss = ["css/custom.css"]
