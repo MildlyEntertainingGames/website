@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscs on Mildly Entertaining Games</title>
+    <link>https://mildlyentertaining.games/misc/</link>
+    <description>Recent content in Miscs on Mildly Entertaining Games</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://mildlyentertaining.games/misc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://mildlyentertaining.games/misc/impressum/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://mildlyentertaining.games/misc/impressum/</guid>
+      <description>Impressum Jan-Erik Baehr Blombachweg 8a 40625 Duesseldorf E-Mail: admin@itsnothing.de
+Verantwortlich für den Inhalt (gem. § 55 Abs. 2 RStV): Jan-Erik Bähr Blombachweg 8a 40625 Düsseldorf
+How is this made? Made with Hugo
+The theme is called Dream</description>
+    </item>
+    
+  </channel>
+</rss>
