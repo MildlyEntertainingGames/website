@@ -17,7 +17,7 @@
 
 
 
-<meta name="generator" content="Hugo 0.68.3" />
+<meta name="generator" content="Hugo 0.74.1" />
 
 <link rel="canonical" href="https://mildlyentertaining.games/categories/" />
 
@@ -35,26 +35,16 @@
 <meta name="twitter:description" content="At least your #2 source for mildly entertaining games"/>
 
 
-
-
-
 <link rel="stylesheet" href="/css/semantic.min.css" />
+<link rel="stylesheet" href="/css/icomoon.css" />
 <link rel="stylesheet" href="/css/OverlayScrollbars.min.css" />
+<link rel="stylesheet" href="/css/github-markdown.css" />
 <link rel="stylesheet" href="/css/site.css" />
-
-
-<link rel="stylesheet" href="/css/custom.91e2cf3312da9f1c08d56d26d9407499ddd91b5306a7af0308407e21d9f28290.css" integrity="sha256-keLPMxLanxwI1W0m2UB0md3ZG1MGp68DCEB&#43;IdnygpA=">
 
 
 <style>
   a {
-    color: {
-        {
-        .Site.Params.linkColor
-      }
-    }
-
-     !important;
+    color: seagreen !important;
   }
 </style>
 
@@ -62,26 +52,27 @@
 
 <style>
   .inverted a {
-    color: {
-        {
-        .Site.Params.darkLinkColor
-      }
-    }
-
-     !important;
+     color: darkseagreen !important;
   }
 </style>
+
+
+
+<style>
+  body {
+    
+      background-color: darkseagreen;
+    
+    
+  }
+</style>
+
 
      
   </head>
 
-  
-  <body style="background: darkseagreen;">
-  
-    <div class="flip-container">
-      <div class="flipper">
-        <section class="front">
-          
+  <body>
+    
 <nav class="ui secondary inverted menu dream-menu">
 
   <div class="item">
@@ -93,9 +84,14 @@
   <div class="item">
     <i class="large link icon theme-switch" onclick="themeSwitch()"></i>
   </div>
+  
 </nav>
 
-          
+    <div class="flip-container">
+      <div class="flipper">
+        <section class="front">
+          <div class="dream-max-width">
+            
 <div class="ui centered relaxed grid dream-grid">
   <div class="sixteen wide mobile sixteen wide tablet four wide computer column">
     <article class="dream-header">
@@ -226,6 +222,8 @@
   
 
   
+
+  
 </nav>
 
   </section>
@@ -295,23 +293,11 @@
   </div>
 </div>
 
+          </div>
         </section>
         <section class="back">
-          
-<nav class="ui secondary inverted menu dream-menu">
-
-  <div class="item">
-    <i class="large link bullseye icon dream-flip-toggle" title="Flip it!"></i>
-  </div>
-  <div class="item">
-    <i class="large link home icon" title="Home" onclick="window.location.href = 'https:\/\/mildlyentertaining.games\/'"></i>
-  </div>
-  <div class="item">
-    <i class="large link icon theme-switch" onclick="themeSwitch()"></i>
-  </div>
-</nav>
-
-          <div class="ui centered relaxed grid dream-grid dream-back">
+          <div class="dream-max-width">
+            <div class="ui centered relaxed grid dream-grid dream-back">
   
   
   
@@ -320,7 +306,7 @@
         <div class="ui top attached segment">
           <h3 class="ui header">About</h3>
         </div>
-        <div class="ui attached segment markdown-body">
+        <div class="ui bottom attached segment markdown-body">
           <h1 id="wow-you-seem-interested">Wow you seem interested!</h1>
 <p>We are Gege and Ekki, we started making games back in college around 2014. We started out doing game jams and most things that we showcase here are the results of game jams we participated in. We also did some Live Adventure/Escape Room stuff.</p>
 <h1 id="the-first-batch-of-games">The first batch of games</h1>
@@ -338,7 +324,7 @@
       <div class="ui top attached segment">
         <h3 class="ui header">Social Links</h3>
       </div>
-      <div class="ui attached segment">
+      <div class="ui bottom attached segment">
         <nav class="ui secondary menu dream-menu dream-socials">
   
     <div class="item">
@@ -347,6 +333,8 @@
       </a>
     </div>
   
+  
+
   
 
   
@@ -377,11 +365,37 @@
   
 </div>
 
+          </div>
         </section>
       </div>
     </div>
 
-    <script src="/js/jquery.min.js"></script>
+    <script>
+  window.darkNav =  true 
+  window.hasTwitterEmbed =  null 
+
+  if (window.hasTwitterEmbed) {
+    
+    window.twttr = (function (d, s, id) {
+      var js,
+        fjs = d.getElementsByTagName(s)[0],
+        t = window.twttr || {}
+      if (d.getElementById(id)) return t
+      js = d.createElement(s)
+      js.id = id
+      js.src = 'https://platform.twitter.com/widgets.js'
+      fjs.parentNode.insertBefore(js, fjs)
+
+      t._e = []
+      t.ready = function (f) {
+        t._e.push(f)
+      }
+
+      return t
+    })(document, 'script', 'twitter-wjs')
+  }
+</script>
+<script src="/js/jquery.min.js"></script>
 <script src="/js/semantic.min.js"></script>
 <script src="/js/jquery.overlayScrollbars.min.js"></script>
 <script src="/js/header.js"></script>
@@ -389,6 +403,8 @@
 <script src="/js/theme.js"></script>
 
      
+
+    
 
     
   </body>
