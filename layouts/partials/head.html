@@ -4,8 +4,7 @@
 
 {{ if eq .Type "posts" }}
 <!-- Page Author & Description -->
-<meta name="author"
-  content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
+<meta name="author" content="{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}" />
 <meta name="description" content="{{ .Summary | plainify }}" />
 {{ else }}
 <!-- Site Author & Description -->
@@ -24,28 +23,16 @@
 <!-- Twitter Cards -->
 {{ template "_internal/twitter_cards.html" . }}
 
-<!-- custom css stuff-->
-{{ $optionsCss := (dict "outputStyle" "compressed") }}
-
 <link rel="stylesheet" href="{{ "/css/semantic.min.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/icomoon.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "/css/OverlayScrollbars.min.css" | relURL }}" />
+<link rel="stylesheet" href="{{ "/css/github-markdown.css" | relURL }}" />
 <link rel="stylesheet" href="{{ "/css/site.css" | relURL }}" />
-
-{{ range .Site.Params.customCss -}}
-{{ $customStyle := resources.Get . | toCSS $optionsCss | fingerprint }}
-<link rel="stylesheet" href="{{ $customStyle.RelPermalink }}" integrity="{{ $customStyle.Data.Integrity }}">
-{{- end }}
 
 {{ if .Site.Params.linkColor }}
 <style>
   a {
-    color: {
-        {
-        .Site.Params.linkColor
-      }
-    }
-
-     !important;
+    color: {{ .Site.Params.linkColor }} !important;
   }
 </style>
 {{ end }}
@@ -53,13 +40,20 @@
 {{ if .Site.Params.darkLinkColor }}
 <style>
   .inverted a {
-    color: {
-        {
-        .Site.Params.darkLinkColor
-      }
-    }
+     color: {{ .Site.Params.darkLinkColor }} !important;
+  }
+</style>
+{{ end }}
 
-     !important;
+{{ if or .Site.Params.background .Site.Params.backgroundImage }}
+<style>
+  body {
+    {{ if .Site.Params.background }}
+      background-color: {{ .Site.Params.background }};
+    {{ end }}
+    {{ if .Site.Params.backgroundImage }}
+      background-image: url({{ .Site.Params.backgroundImage }});
+    {{ end }}
   }
 </style>
 {{ end }}

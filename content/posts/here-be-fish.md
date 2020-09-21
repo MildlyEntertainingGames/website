@@ -7,10 +7,10 @@ categories:
   - games
 ---
 
-A simulation game about underwater people, made for Ludum Dare.
+A simulation game about underwater people, made for Ludum Dare. Create more people by providing them with shelter and food. You will win eventually.
 
 <!--more-->
 
-Can be played and downloaded for free on itch.io:
+Can be played and downloaded for free on Gamejolt:
 
-[![itch-download](/img/download_from_itch_badge.svg)](https://mildlyentertaininggames.itch.io/herebefish)
+[![gamejolt-download](/img/donwload-on-gamejolt.png)](https://gamejolt.com/games/herebefish/252177)
