@@ -11,6 +11,8 @@ A simulation game about underwater people, made for Ludum Dare. Create more peop
 
 <!--more-->
 
+{{< youtube gzQDhyQkRrA >}}
+
 Can be played and downloaded for free on Gamejolt:
 
 [![gamejolt-download](/img/donwload-on-gamejolt.png)](https://gamejolt.com/games/herebefish/252177)

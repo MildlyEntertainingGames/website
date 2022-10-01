@@ -11,6 +11,8 @@ A match-three game with side effects that may involve shapeshifting a bizarre cr
 
 <!--more-->
 
+{{< youtube jA_cB_roPjA >}}
+
 Can be played and downloaded for free on itch.io:
 
 [![itch-download](/img/download_from_itch_badge.svg)](https://mildlyentertaininggames.itch.io/potionshift)

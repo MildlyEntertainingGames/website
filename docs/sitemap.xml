@@ -1,69 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mildlyentertaining.games/posts/affectionate-armament/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/categories/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/categories/games/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/posts/here-be-fish/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/posts/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/posts/potion-shift/</loc>
     <lastmod>2020-07-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/posts/my-superhero/</loc>
     <lastmod>2020-07-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/categories/news/</loc>
     <lastmod>2020-07-16T15:26:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/posts/back/</loc>
     <lastmod>2020-07-16T15:26:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/misc/impressum/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/misc/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mildlyentertaining.games/tags/</loc>
   </url>
-  
 </urlset>
