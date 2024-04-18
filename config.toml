@@ -1,5 +1,5 @@
 baseURL = "https://mildlyentertaining.games/"
-languageCode = "en-us"
+defaultContentLanguage = "en"
 title = "Mildly Entertaining Games"
 theme = "dream"
 publishDir = "docs"
