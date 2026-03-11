@@ -1,96 +1,54 @@
 baseURL = "https://mildlyentertaining.games/"
-defaultContentLanguage = "en"
 title = "Mildly Entertaining Games"
-theme = "dream"
+theme = "PaperMod"
 publishDir = "docs"
 
 enableRobotsTXT = true
+defaultContentLanguage = "en"
 
-# https://gohugo.io/news/0.60.0-relnotes/
 [markup]
   defaultMarkdownHandler = "goldmark"
-  [markup.asciidocExt]
-    backend = "html5"
-    docType = "article"
-    extensions = []
-    failureLevel = "fatal"
-    noHeaderOrFooter = true
-    safeMode = "unsafe"
-    sectionNumbers = false
-    trace = false
-    verbose = true
-    workingFolderCurrent = false
-    [markup.asciidocExt.attributes]
-  [markup.blackFriday]
-    angledQuotes = false
-    footnoteAnchorPrefix = ""
-    footnoteReturnLinkContents = ""
-    fractions = true
-    hrefTargetBlank = false
-    latexDashes = true
-    nofollowLinks = false
-    noreferrerLinks = false
-    plainIDAnchors = true
-    skipHTML = false
-    smartDashes = true
-    smartypants = true
-    smartypantsQuotesNBSP = false
-    taskLists = true
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-      autoHeadingIDType = "github"
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = false
-      xhtml = false
   [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
     style = "monokai"
-    tabWidth = 4
-  [markup.tableOfContents]
-    endLevel = 3
-    ordered = false
-    startLevel = 2
 
 [params]
-  background = "darkseagreen"
-  backgroundImage = ""
-  linkColor = "seagreen"
-
-  author = "Mildy Entertaining Games"
+  author = "Mildly Entertaining Games"
   description = "At least your #2 source for mildly entertaining games"
-  avatar = "/img/mildlyentertaininggames-logo-large-square.png"
 
-  rss = true
+  # Optional: link to favicon (theme uses favicon.ico in static by default)
+  # favicon = "/favicon.ico"
 
-  categoriesLimitInHeader = 6
- 
-  siteStartYear = 2020
+  # PaperMod options (social/share buttons disabled)
+  ShowShareButtons = false
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowWordCount = false
+  ShowCodeCopyButtons = true
 
-  favicon = "/favicon.ico"
+  # Custom CSS is in assets/css/extended/custom.css (badge sizes)
+  mainSections = ["posts"]
 
-  # options
-  showSummaryCoverInPost = true
+[params.homeInfoParams]
+  Title = "Mildly Entertaining Games"
+  Content = """
+  Small indie game studio. At least your #2 source for mildly entertaining games.
+  """
 
-  # dark mode
-  darkLinkColor = "darkseagreen"
-  darkNav = true
-  dark404 = true
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 10
+[[menu.main]]
+  name = "Impressum"
+  url = "/misc/impressum/"
+  weight = 20
 
-  customCss = ["css/custom.css"]
+[params.footer]
+  hideCopyright = false
+  text = "[Impressum](/misc/impressum/)"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.5

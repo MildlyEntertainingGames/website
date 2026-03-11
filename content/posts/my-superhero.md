@@ -2,7 +2,8 @@
 title: "My Superhero"
 date: "2020-07-29"
 author: "Mildly Entertaining Games"
-cover: "/img/my-superhero-screenshot.PNG"
+cover:
+  image: "/img/my-superhero-screenshot.PNG"
 categories:
   - games
 ---

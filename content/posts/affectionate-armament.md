@@ -2,7 +2,8 @@
 title: " Affectionate Armament"
 date: "2020-07-30"
 author: "Mildly Entertaining Games"
-cover: "/img/affectionate-armament.gif"
+cover:
+  image: "/img/affectionate-armament.gif"
 categories:
   - games
 ---

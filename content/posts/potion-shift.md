@@ -2,7 +2,8 @@
 title: "Potion Shift"
 date: "2020-07-30"
 author: "Mildly Entertaining Games"
-cover: "/img/potion_shift.png"
+cover:
+  image: "/img/potion_shift.png"
 categories:
   - games
 ---

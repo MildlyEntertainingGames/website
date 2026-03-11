@@ -2,7 +2,8 @@
 title: "Here Be Fish"
 date: "2020-07-30"
 author: "Mildly Entertaining Games"
-cover: "/img/animated_title_herebefish.gif"
+cover:
+  image: "/img/animated_title_herebefish.gif"
 categories:
   - games
 ---

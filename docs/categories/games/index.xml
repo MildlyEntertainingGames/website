@@ -1,56 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>games on Mildly Entertaining Games</title>
+    <title>Games on Mildly Entertaining Games</title>
     <link>https://mildlyentertaining.games/categories/games/</link>
-    <description>Recent content in games on Mildly Entertaining Games</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mildlyentertaining.games/categories/games/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Games on Mildly Entertaining Games</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mildlyentertaining.games/categories/games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Jimmy&#39;s Wish</title>
       <link>https://mildlyentertaining.games/posts/jimmys-wish/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mildlyentertaining.games/posts/jimmys-wish/</guid>
       <description>&lt;p&gt;We managed to do another game jam! After a long break we decided to participate in Ludum Dare 55. The theme was &amp;ldquo;Summoning&amp;rdquo; and we created a microgame collection called &lt;a href=&#34;https://ldjam.com/events/ludum-dare/55/jimmys-wish&#34;&gt;Jimmy&amp;rsquo;s Wish&lt;/a&gt;.
 The game follows Jimmy, a lonely boy who finds a book on summoning rituals. He attempts various bizarre rituals to summon a friend, with the steps of each ritual represented as a microgame.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title> Affectionate Armament</title>
       <link>https://mildlyentertaining.games/posts/affectionate-armament/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mildlyentertaining.games/posts/affectionate-armament/</guid>
       <description>&lt;p&gt;Our first Ludum Dare game! A two-player action game that can be played on one screen. There is only one gun, players who know how to sweet-talk can grab it from the enemy.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Here Be Fish</title>
       <link>https://mildlyentertaining.games/posts/here-be-fish/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mildlyentertaining.games/posts/here-be-fish/</guid>
       <description>&lt;p&gt;A simulation game about underwater people, made for Ludum Dare. Create more people by providing them with shelter and food. You will win eventually.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Potion Shift</title>
       <link>https://mildlyentertaining.games/posts/potion-shift/</link>
       <pubDate>Thu, 30 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mildlyentertaining.games/posts/potion-shift/</guid>
       <description>&lt;p&gt;A match-three game with side effects that may involve shapeshifting a bizarre creature. Made for Ludum Dare.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>My Superhero</title>
       <link>https://mildlyentertaining.games/posts/my-superhero/</link>
       <pubDate>Wed, 29 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://mildlyentertaining.games/posts/my-superhero/</guid>
       <description>&lt;p&gt;The first attempt at creating a 3D game. It&amp;rsquo;s a tower defense game set in a bedroom, use toys to defend from nightmares.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

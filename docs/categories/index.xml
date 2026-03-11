@@ -1,28 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Mildly Entertaining Games</title>
     <link>https://mildlyentertaining.games/categories/</link>
     <description>Recent content in Categories on Mildly Entertaining Games</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://mildlyentertaining.games/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://mildlyentertaining.games/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>games</title>
+      <title>Games</title>
       <link>https://mildlyentertaining.games/categories/games/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
       <guid>https://mildlyentertaining.games/categories/games/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>news</title>
+      <title>News</title>
       <link>https://mildlyentertaining.games/categories/news/</link>
       <pubDate>Thu, 16 Jul 2020 15:26:09 +0000</pubDate>
-      
       <guid>https://mildlyentertaining.games/categories/news/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

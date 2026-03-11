@@ -2,7 +2,8 @@
 title: " Jimmy's Wish"
 date: "2024-04-17"
 author: "Mildly Entertaining Games"
-cover: "/img/jimmyswishsummoninggame.png"
+cover:
+  image: "/img/jimmyswishsummoninggame.png"
 categories:
   - games
 ---

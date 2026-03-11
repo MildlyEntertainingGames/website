@@ -1,0 +1,26 @@
+/* Tagline in top bar: smaller, cursive */
+.site-tagline {
+  font-size: 0.85rem;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", serif;
+  margin-inline-start: 0.75rem;
+  opacity: 0.9;
+}
+
+@media (max-width: 768px) {
+  .site-tagline {
+    display: block;
+    margin-inline-start: 0;
+    margin-top: 0.25rem;
+  }
+}
+
+/* Image sizes for store badges */
+@media (max-width: 500px) {
+  img[alt=itch-download] { max-width: 60% !important; }
+  img[alt=playstore-download] { max-width: 60% !important; }
+}
+@media (min-width: 500px) {
+  img[alt=itch-download] { max-width: 400px !important; }
+  img[alt=playstore-download] { max-width: 400px !important; }
+}

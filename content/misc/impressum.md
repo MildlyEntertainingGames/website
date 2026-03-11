@@ -16,5 +16,4 @@ Blombachweg 8a
 40625 Düsseldorf
 
 ## How is this made?
-Made with [Hugo](http://gohugo.io)  
-The theme is called [Dream](https://github.com/g1eny0ung/hugo-theme-dream)
+Made with [Hugo](https://gohugo.io) and the [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme.
