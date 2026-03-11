@@ -48,6 +48,9 @@ defaultContentLanguage = "en"
   hideCopyright = false
   text = "[Impressum](/misc/impressum/)"
 
+[params.assets]
+  disableFingerprinting = true
+
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
